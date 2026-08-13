@@ -1,65 +1,68 @@
 <div align="center">
 
-# Pedro Zambudio
+<img width="100%" src="./assets/hero.png" alt="Pedro Zambudio — Industrial systems and applied AI" />
 
-**Simulation & Automation Engineer**
+<br/>
 
-Digital twins · Industrial software · Applied artificial intelligence
-
-[LinkedIn](https://www.linkedin.com/in/pedro-zambudio/) · [Projects](https://github.com/Zambudio?tab=repositories)
+<a href="https://www.linkedin.com/in/pedro-zambudio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/Zambudio?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub projects" /></a>
 
 </div>
 
----
+## About
 
-I build software that helps understand, simulate and improve real-world systems.
+I am a **Simulation & Automation Engineer** working at the intersection of industrial engineering and software development. My core field is **Siemens Plant Simulation**: digital twins, discrete-event models, experiment campaigns and process optimisation.
 
-My work combines **industrial simulation**, **automation** and **artificial intelligence** — from digital twins and process optimisation to AI agents, LLM integrations and production-ready tools.
+Alongside simulation, I build practical AI systems — **LLM integrations, AI agents, multi-agent workflows and intelligent automation** — using Python and modern software engineering practices.
 
 Currently working at **Sothis**, within the PLM department.
 
-## Focus
+<div align="center">
 
-**Industrial simulation**  
-Discrete-event simulation, digital twins and process optimisation with Siemens Plant Simulation and SimTalk.
+<img width="100%" src="./assets/focus.png" alt="Core focus: simulation engineering and AI development" />
 
-**Applied AI**  
-LLM integrations, AI agents, multi-agent workflows, context engineering and intelligent automation.
+</div>
 
-**Software engineering**  
-Reliable tools and integrations built with Python, C++, TypeScript, APIs, Docker and MQTT.
-
-## Selected work
-
-### [BuenChollo](https://github.com/Zambudio/buenchollo-app)
-
-An application that transforms Amazon product data into publication-ready affiliate content, combining a FastAPI backend, React frontend and OpenAI integration.
-
-`Python` `FastAPI` `React` `OpenAI API`
-
-### [AI API Usage Dashboard](https://github.com/Zambudio/Dashboard_Uso_APIs)
-
-A dashboard and native Windows tray application for monitoring AI service usage across local and NAS environments.
-
-`TypeScript` `Next.js` `Playwright` `Windows`
-
-### [MetaTrader Bots](https://github.com/Zambudio/MetaTrader_Bots)
-
-A multi-agent workspace for researching algorithmic trading strategies and developing MetaTrader 5 bots.
-
-`AI agents` `Multi-agent systems` `MetaTrader 5`
-
-## Tools
-
-**Languages** — Python, C++, C#, TypeScript, Bash  
-**AI** — LLM APIs, AI agents, multi-agent systems, prompt and context engineering  
-**Industry** — Siemens Plant Simulation, SimTalk, NX Open, MQTT  
-**Platform** — FastAPI, React, Next.js, Docker, Git, Linux, MySQL, PostgreSQL
-
----
+## Selected projects
 
 <div align="center">
 
-*Engineering practical systems at the intersection of industry and intelligence.*
+<a href="https://github.com/Zambudio/buenchollo-app"><img width="49%" src="./assets/project-buenchollo.png" alt="BuenCholloTech — AI-assisted publishing platform" /></a>
+<a href="https://github.com/Zambudio/Dashboard_Uso_APIs"><img width="49%" src="./assets/project-dashboard.png" alt="AI API Usage Dashboard" /></a>
+
+<a href="https://github.com/Zambudio?tab=repositories"><img width="49%" src="./assets/project-simulation.png" alt="Industrial Simulation Lab — Plant Simulation and digital twins" /></a>
+<a href="https://github.com/Zambudio/MetaTrader_Bots"><img width="49%" src="./assets/project-metatrader.png" alt="MetaTrader multi-agent research workspace" /></a>
+
+</div>
+
+### Highlights
+
+- **BuenCholloTech** — a production platform and Master's Final Project that combines FastAPI, React, Amazon integrations and AI-assisted content generation.
+- **AI API Usage Dashboard** — a Next.js dashboard and Windows tray application for monitoring real usage, costs and quotas across AI providers.
+- **Industrial Simulation Lab** — private engineering work with Plant Simulation, SimTalk, repeatable campaigns and AI-assisted analysis.
+- **MetaTrader Agent Workspace** — a multi-agent environment for researching algorithmic trading strategies.
+
+## Technology stack
+
+<div align="center">
+
+<img width="100%" src="./assets/skills.png" alt="Technology stack: Siemens, Python, C++, OpenAI, Claude, Gemini, TypeScript, FastAPI, Docker and MQTT" />
+
+</div>
+
+## What I am exploring
+
+- AI agents that can work with simulation models, evidence and engineering documentation.
+- Reliable bridges between industrial data, digital twins and decision-support systems.
+- Production-grade AI applications with explicit verification and human oversight.
+
+<div align="center">
+
+---
+
+**Plant Simulation · Digital Twins · AI Engineering · Industrial Automation**
+
+<sub>Building useful intelligence for real systems.</sub>
 
 </div>
