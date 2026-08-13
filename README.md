@@ -1,101 +1,157 @@
-<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2FF4E9,100:0078D6&height=200&section=header&text=Pedro%20Zambudio&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Simulation%20and%20Automation%20Engineer&descSize=20&descAlignY=58" alt="header" />
-
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2FF4E9&center=true&vCenter=true&width=650&height=80&lines=Hi%2C+I'm+Pedro+%F0%9F%91%8B;Simulation+and+Automation+Engineer;Python+and+C%2B%2B+Developer;Digital+Twins+and+Industrial+IoT;Always+Learning+and+Improving+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img width="100%" src="./assets/profile-hero.svg" alt="Pedro Zambudio — Industrial Simulation, Automation and Artificial Intelligence" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Zambudio&label=Profile%20views&color=2FF4E9&style=for-the-badge" alt="Profile views" />
-<a href="https://github.com/Zambudio?tab=followers">
-  <img src="https://img.shields.io/github/followers/Zambudio?label=Followers&style=for-the-badge&color=0078D6&logo=github" alt="Followers" />
-</a>
+<a href="https://www.linkedin.com/in/pedro-zambudio/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Zambudio?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub repositories" /></a>
+<img src="https://komarev.com/ghpvc/?username=Zambudio&label=PROFILE+VIEWS&color=14b8a6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
-<br/>
+## Hello, I'm Pedro
 
-<!-- ===================== ABOUT ME ===================== -->
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=48px></picture> About Me
+I'm a **Simulation & Automation Engineer** who turns complex industrial processes into systems that can be understood, tested and improved. My work sits where **digital twins, industrial software, data and artificial intelligence** meet.
 
-<picture><img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=250px></picture>
+Currently working at **Sothis** in the PLM department, building solutions around process simulation, CAD/PLM integrations and industrial digitalization.
 
-- 💼 Currently working as a **Simulation & Automation Engineer** at **Sothis** *(PLM Department)*.
-- 🏭 Experience in **Digital Twins**, **Process Simulation** *(Siemens Plant Simulation)*, and **CAD/PLM integrations**.
-- 🔧 Strong background in **NX Open (C++/Open C)**, **Python scripting**, and **MQTT/IoT integrations**.
-- 📊 Focused on **industrial digitalization**, **process optimization**, and **data-driven simulations**.
-- 📚 Exploring **finance**, **investment automation**, and personal projects with **Python & Docker**.
-- 🎓 Academic background in **Sports Science** + **Higher Degree in Early Childhood Education** *(in progress)*.
-- 🌍 Languages: **Spanish** *(Native)* · **English** *(Professional)*.
-- ✨ Passionate about building tools, learning new tech, and solving complex problems.
+> **My goal:** connect the physical and digital worlds — then make them smarter with AI.
 
-<br clear="right"/>
+## What I build
 
-<!-- ===================== TECH STACK ===================== -->
-## 🛠️ Tech Stack & Tools
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🏭 Digital industry
+
+Discrete-event simulation, digital twins and process optimization with **Siemens Plant Simulation**, SimTalk and industrial data.
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI engineering
+
+LLM integrations, **AI agents and multi-agent workflows**, prompt/context engineering, model gateways and intelligent automation.
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Software & automation
+
+Production-minded tools and integrations using **Python, C++, APIs, Docker, MQTT** and modern web technologies.
+
+</td>
+</tr>
+</table>
+
+## AI capabilities
 
 <div align="center">
 
-<h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,cpp,cs,bash&theme=dark" alt="Languages" />
-
-<h3>Simulation · CAD · PLM</h3>
-<img src="https://img.shields.io/badge/Siemens%20Plant%20Simulation-0078D6?style=for-the-badge&logo=siemens&logoColor=white" alt="Plant Simulation" />
-<img src="https://img.shields.io/badge/Siemens%20NX%20Open-005F9E?style=for-the-badge&logo=siemens&logoColor=white" alt="NX Open" />
-<img src="https://img.shields.io/badge/SimTalk-00ADEF?style=for-the-badge&logo=siemens&logoColor=white" alt="SimTalk" />
-
-<h3>DevOps · Data · Infra</h3>
-<img src="https://skillicons.dev/icons?i=docker,git,linux,mysql,vscode&theme=dark" alt="Tools" />
-<br/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT" />
+![LLM Integration](https://img.shields.io/badge/LLM_Integration-111827?style=for-the-badge&logo=openai&logoColor=2FF4E9)
+![AI Agents](https://img.shields.io/badge/AI_Agents-111827?style=for-the-badge&logo=probot&logoColor=60A5FA)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-111827?style=for-the-badge&logo=dependabot&logoColor=C084FC)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_%26_Context_Engineering-111827?style=for-the-badge&logo=googlegemini&logoColor=2FF4E9)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-111827?style=for-the-badge&logo=openai&logoColor=white)
+![AI Automation](https://img.shields.io/badge/AI--Powered_Automation-111827?style=for-the-badge&logo=githubactions&logoColor=60A5FA)
 
 </div>
 
-<br/>
+- Designing **agentic workflows** that connect models, tools, APIs and domain knowledge.
+- Integrating **OpenAI-compatible APIs** into real applications and automation pipelines.
+- Building model-provider abstractions, structured prompts and context-aware systems.
+- Applying AI to industrial engineering, product content, analytics and trading research.
+- Using AI-assisted development with an emphasis on architecture, verification and documentation.
 
-<!-- ===================== GITHUB STATS ===================== -->
-## 📊 GitHub Analytics
+## Technology radar
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Zambudio&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_title=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Zambudio&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide_title=true" alt="Top Languages" />
+### Core engineering
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,ts,bash&theme=dark" alt="Python, C++, C#, TypeScript and Bash" />
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Zambudio&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+### AI · Backend · Data
 
-<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,mysql,postgres&theme=dark" alt="FastAPI, Node.js, MySQL and PostgreSQL" />
+&nbsp;
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zambudio&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+### Industrial · DevOps · Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,vscode,githubactions&theme=dark" alt="Docker, Git, Linux, VS Code and GitHub Actions" />
+
+<br/><br/>
+
+![Siemens Plant Simulation](https://img.shields.io/badge/Siemens_Plant_Simulation-009999?style=for-the-badge&logo=siemens&logoColor=white)
+![Siemens NX Open](https://img.shields.io/badge/NX_Open-005F9E?style=for-the-badge&logo=siemens&logoColor=white)
+![SimTalk](https://img.shields.io/badge/SimTalk-0078D4?style=for-the-badge&logo=siemens&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 </div>
 
-<br/>
+## Selected work
 
-<!-- ===================== CONNECT ===================== -->
-## 🤝 Connect With Me
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 [BuenChollo](https://github.com/Zambudio/buenchollo-app)
+
+Full-stack platform that turns Amazon product data into publication-ready affiliate content, with a **FastAPI + React** architecture and OpenAI integration.
+
+`Python` `FastAPI` `React` `OpenAI API`
+
+</td>
+<td width="50%" valign="top">
+
+### 📡 [AI API Usage Dashboard](https://github.com/Zambudio/Dashboard_Uso_APIs)
+
+Dashboard and Windows tray application for monitoring AI service usage, designed for reliable local and NAS deployment.
+
+`TypeScript` `Next.js` `Playwright` `Windows`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 [MetaTrader Bots](https://github.com/Zambudio/MetaTrader_Bots)
+
+Multi-agent configuration for researching and developing algorithmic strategies and bots for MetaTrader 5.
+
+`AI Agents` `Trading Research` `MetaTrader 5`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Industrial AI & Digital Twins
+
+Private engineering work combining Plant Simulation models, simulation campaigns, industrial automation and AI-assisted analysis.
+
+`Plant Simulation` `SimTalk` `Python` `Digital Twins`
+
+</td>
+</tr>
+</table>
+
+## Beyond the code
+
+- 🎯 I care about solutions that are **measurable, maintainable and useful in the real world**.
+- 📚 I document decisions so that people — and AI agents — can continue the work confidently.
+- 🌍 **Spanish** native · **English** professional.
+- 🔭 Exploring the next layer of industrial intelligence: simulation models that can reason, explain and improve.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pedro-zambudio/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Zambudio">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+---
 
-</div>
+### From the factory floor to intelligent software.
 
-<br/>
+*Simulate everything. Automate the rest. Make it intelligent.*
 
-<div align="center">
-
-<i>"Simulate everything, automate the rest." ⚙️</i>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D6,100:2FF4E9&height=120&section=footer" alt="footer" />
+<sub>Open to conversations about industrial simulation, automation, digital twins and applied AI.</sub>
 
 </div>
