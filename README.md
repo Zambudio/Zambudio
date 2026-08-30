@@ -160,14 +160,14 @@ Soy **Ingeniero de Simulación y Automatización**, trabajando en la intersecci�
 ## 📈 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zambudio&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00C7B7&text_color=94A3B8" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zambudio&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&text_color=94A3B8" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zambudio&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zambudio&theme=tokyonight&hide_border=true&background=0D1117&ring=00C7B7&fire=00C7B7&currStreakNum=00C7B7" alt="GitHub Streak" width="97%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zambudio&theme=tokyonight" alt="Repos per Language" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Zambudio&theme=tokyonight&hide_border=true&background=1a1b27&ring=00C7B7&fire=00C7B7&currStreakNum=00C7B7" alt="GitHub Streak" width="49%" />
 </div>
 
 ---
